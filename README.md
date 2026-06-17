@@ -1,4 +1,4 @@
-# Jyoti Sinha Cinematic Portfolio
+# Ankit Chaudhary Cinematic Portfolio
 
 A customized cinematic Next.js portfolio for Ankit Chaudhary, focused on Control-M expertise, production support, enterprise automation, RPA, and AI-assisted support projects.
 
