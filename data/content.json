@@ -1,0 +1,22 @@
+{
+  "site": {
+    "tagline": "Portfolio 2026"
+  },
+  "hero": {
+    "taglineHighlight": "ML & Django",
+    "freelanceNote": "Open to machine learning, backend engineering, data analysis, and AI development opportunities.",
+    "availableLabel": "Available for opportunities",
+    "pills": ["Python & C++", "Django Backend", "Machine Learning", "Data Analysis"],
+    "specialistStat": { "value": "ML + Django", "label": "Specialist" }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": ["Hackathons\ncompleted", "BCA\nCGPA", "Academic\nprojects"]
+  },
+  "footer": {
+    "eyebrow": "Available for backend and AI roles",
+    "ctaLines": ["Building intelligent", "and reliable solutions"],
+    "ctaAccent": "scalable."
+  }
+}

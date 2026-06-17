@@ -1,0 +1,134 @@
+{
+  "name": {
+    "first": "Ankit",
+    "last": "Chaudhary",
+    "full": "Ankit Chaudhary"
+  },
+  "email": "ankitchaudhary.dev64@gmail.com",
+  "phone": "(+91) 9517557120",
+  "tagline": "Data Scientist and ML Engineer passionate about deep learning, backend automation, and smart data solutions.",
+  "description": "Data Scientist and ML Engineer passionate about building intelligent systems, Django web applications, and statistical data solutions.",
+  "roles": {
+    "short": "Data Scientist & ML Engineer",
+    "detailed": "Data Scientist | ML Engineer | Django Developer"
+  },
+  "location": {
+    "based": "India",
+    "availability": "India / Remote"
+  },
+  "available": true,
+  "bio": "Aspiring Data Scientist and Machine Learning Enthusiast with a strong interest in building intelligent and scalable applications. Skilled in Python, Machine Learning, Data Analysis, and Django backend development for deploying AI-powered solutions. Experienced in working with Pandas, NumPy, Scikit-learn, REST APIs, and databases, with hands-on project experience in healthcare AI and recommendation systems. Passionate about solving real-world problems through data-driven and backend-powered applications.",
+  "stats": [
+    { "value": "10+", "label": "AI/Dev Hackathons" },
+    { "value": "9.0", "label": "BCA CGPA" },
+    { "value": "2+", "label": "Academic Projects" }
+  ],
+  "skills": [
+    "Python",
+    "C++",
+    "Django",
+    "SQLite",
+    "REST APIs",
+    "Scikit-learn",
+    "PyTorch",
+    "CNN / ANN",
+    "Model Training",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "Seaborn",
+    "SQL",
+    "Git/GitHub",
+    "Hugging Face"
+  ],
+  "skillsGrouped": {
+    "Programming": ["Python", "C++"],
+    "Machine Learning & DL": ["Scikit-learn", "PyTorch", "CNN", "ANN", "Model Training", "model Evaluation"],
+    "Data Analysis & Vis": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Data Handling", "EDA"],
+    "Backend": ["Django", "REST APIs", "SQLite", "SQL"],
+    "Core Concepts": ["DSA", "Feature Engineering", "EDA"],
+    "Tools & Platforms": ["Git", "GitHub", "JupyterLab", "Hugging Face"]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Junior Data Entry Operator",
+      "company": "Renuka plastic Pvt. Ltd.",
+      "companyShort": "RENUKA PLASTIC",
+      "type": "Full-time",
+      "location": "India",
+      "period": "Feb 2024",
+      "periodEnd": "Jun 2024",
+      "bullets": [
+        "Handled worker entry and exit data and maintained accurate attendance records.",
+        "Monitored employee working hours, shift timings, and daily workforce activities.",
+        "Updated and organized operational records with accuracy and efficiency.",
+        "Assisted in workforce data management and reporting tasks."
+      ],
+      "desc": "Operational data entry, attendance tracking, shift monitoring, and records management.",
+      "tech": ["Data Entry", "MS Excel", "Operations", "Reporting"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Arogya Link",
+      "subtitle": "AI-Based Healthcare Monitoring",
+      "type": "ML & Backend",
+      "link": "https://github.com/Ankit-chaudhary64/Arogya-Link",
+      "image": "/assets/project-arogya.png",
+      "tech": ["Python", "Django", "Scikit-learn", "SQLite", "Machine Learning"],
+      "desc": "Developed an AI-based healthcare monitoring web application. Built prediction models for health conditions using machine learning, and created robust backend functionality with Django and SQLite."
+    },
+    {
+      "id": 2,
+      "title": "Movie Recommender",
+      "subtitle": "Content-Based Filtering",
+      "type": "Machine Learning",
+      "link": "https://github.com/Ankit-chaudhary64/Movie-Recommendation-System",
+      "image": "/assets/project-movie.png",
+      "tech": ["Python", "Pandas", "NumPy", "Scikit-learn", "Recommender Systems"],
+      "desc": "Developed a movie recommendation system using content-based filtering techniques. Implemented the core recommendation logic using Pandas, NumPy, and Scikit-learn."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "10+ AI & Dev Hackathons",
+      "platform": "Achievements",
+      "year": "2024 – Present",
+      "link": "https://github.com/Ankit-chaudhary64",
+      "desc": "Participated in 10+ AI and software development hackathons, reaching final offline rounds in multiple events."
+    },
+    {
+      "id": 2,
+      "title": "Hackathon Top 10 Finalist",
+      "platform": "Awards",
+      "year": "2025",
+      "link": "",
+      "desc": "Achieved a Top 10 position in a competitive hackathon with prototype and screening rounds."
+    },
+    {
+      "id": 3,
+      "title": "Bachelor of Computer Applications",
+      "platform": "Shobhit University",
+      "year": "2024-2027",
+      "link": "",
+      "desc": "Pursuing BCA with a current CGPA of 9.0, focusing on programming, databases, and software design."
+    },
+    {
+      "id": 4,
+      "title": "Secondary Education (XII)",
+      "platform": "UP Board",
+      "year": "2023",
+      "link": "",
+      "desc": "Completed XII from RIC Nic with 87% marks."
+    }
+  ],
+  "socials": [
+    { "label": "GitHub",    "href": "https://github.com/Ankit-chaudhary64" },
+    { "label": "LinkedIn",  "href": "https://www.linkedin.com/in/ankit-chaudhary-0325a2305/" },
+    { "label": "Instagram", "href": "https://www.instagram.com/itq.artist/" },
+    { "label": "YouTube",   "href": "https://www.youtube.com/@PBtechvibe" }
+  ]
+}
